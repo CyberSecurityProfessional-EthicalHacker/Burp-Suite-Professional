@@ -3,8 +3,8 @@
 echo "
               **Certified Ethical Hacker**
 	     **Professor MadMax**
-	    ##Certified Ethical Hacker##
-	   ####Do not use it for illegal purpose
+	    ***Certified Ethical Hacker**
+	   ****Do not use it for illegal activity****
 "
 
 if [[ $EUID -eq 0 ]]; then
