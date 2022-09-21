@@ -4,7 +4,7 @@ echo "
               **Certified Ethical Hacker**
 	     **Professor MadMax**
 	    ##Certified Ethical Hacker##
-	   #### Do not use it for illegal purpose
+	   ####Do not use it for illegal purpose
 "
 
 if [[ $EUID -eq 0 ]]; then
