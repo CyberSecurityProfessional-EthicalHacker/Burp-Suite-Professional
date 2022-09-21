@@ -14,7 +14,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 # Burp Suite Pro Activation Steps 
-	1. Modify License String like "license to Siddharth"
+	1. Modify License String like "license to Certified Ethical Hacker"
 	2. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.
 	3. Select Manual Activation Option on your bottom Right in Burp Suite Pro.
 	4. Copy License Request from BurpSuite_Pro and paste in Keygenerator.
@@ -26,16 +26,3 @@
 	--> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
 
 -----------------------------------------------------------------------------------------------------------------
-# Videos For Reference 
-	--> Kali Linux :-: Installing Burp Suite Professional in Kali Linux for Free
-[![Installing Burp Suite Professional in Kali Linux for Free] https://www.youtube.com/channel/UCzzQn2cKZ3_CmZwVB3bC_0A
-
-
-
-	--> Windows 10 :-: Installing Burp Suite Professional in Windows Machine for Free
-[![Installing Burp Suite Professional in Windows Machine for Free] https://www.youtube.com/channel/UCzzQn2cKZ3_CmZwVB3bC_0A
-
-
-	
-	--> Introduction to Burp Suite Professionaal
-[![Introduction to Burp Suite Professional -- Beginner to Intermediate]https://www.youtube.com/channel/UCzzQn2cKZ3_CmZwVB3bC_0A
