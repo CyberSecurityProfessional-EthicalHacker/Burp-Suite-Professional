@@ -7,7 +7,7 @@
 
 	**Download Burp Loader files. Then Follow Below Steps for Activation**
 
-		-->https://github.com/CyberCommunity03/Burp-Suite-Installation
+		-->https://github.com/professor-madmaxxx/Burp-Suite-Professional
 
 	**If using in Windows 10, Download and Install Java and JDK**
 
@@ -29,11 +29,11 @@
 
 	**2.1 Run This Command for Windows in CMD Prompt.**
 
-		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\samar\Downloads\burp-suite\loader.jar" -noverify -jar "C:\Users\cybercommunity03\Downloads\burp-suite\burpsuite_pro_v2021.2.1.jar"
+		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\samar\Downloads\burp-suite\loader.jar" -noverify -jar "C:\Users\professor-madmaxxx\Downloads\burp-suite\burpsuite_pro_v2021.2.1.jar"
 
 	**2.2 Run this command for Linux in Terminal. Suppose Your files are in /home/samar/Downloads/burp-suite/**
 
-		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/samar/Downloads/burp-suite/loader.jar -noverify -jar /home/cybercommunity03/Downloads/burp-suite/burpsuite_pro_v2021.2.1.jar &
+		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/samar/Downloads/burp-suite/loader.jar -noverify -jar /home/professor-madmaxxx/Downloads/burp-suite/burpsuite_pro_v2021.2.1.jar &
 
 	----------------------------------------------
 
