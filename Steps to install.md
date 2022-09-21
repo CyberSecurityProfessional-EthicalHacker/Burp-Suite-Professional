@@ -23,17 +23,17 @@
 
 	**1. Place all files in 1 folder**
 
-		For Example lets take as --> C:\Users\samar\Downloads\burp-suite\
+		For Example lets take as --> C:\Users\professor-madmaxxx\Downloads\burp-suite\
 
 	----------------------------------------------
 
 	**2.1 Run This Command for Windows in CMD Prompt.**
 
-		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\samar\Downloads\burp-suite\loader.jar" -noverify -jar "C:\Users\professor-madmaxxx\Downloads\burp-suite\burpsuite_pro_v2021.2.1.jar"
+		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\professor-madmaxxx\Downloads\burp-suite\loader.jar" -noverify -jar "C:\Users\professor-madmaxxx\Downloads\burp-suite\burpsuite_pro_v2021.2.1.jar"
 
-	**2.2 Run this command for Linux in Terminal. Suppose Your files are in /home/samar/Downloads/burp-suite/**
+	**2.2 Run this command for Linux in Terminal. Suppose Your files are in /home/max/Downloads/burp-suite/**
 
-		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/samar/Downloads/burp-suite/loader.jar -noverify -jar /home/professor-madmaxxx/Downloads/burp-suite/burpsuite_pro_v2021.2.1.jar &
+		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/max/Downloads/burp-suite/loader.jar -noverify -jar /home/professor-madmaxxx/Downloads/burp-suite/burpsuite_pro_v2021.2.1.jar &
 
 	----------------------------------------------
 
@@ -45,7 +45,7 @@
 
 	**4. Activate Burp Suite Pro**
 
-		1. Modify License String like "license to cybercommunity03"
+		1. Modify License String like "license to Certified Ethical Hacker"
 
 		2. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.
 
@@ -65,7 +65,7 @@
 
 			Set WshShell = CreateObject("WScript.Shell")
 
-			WshShell.Run chr(34) & "C:\Users\cybercommunity03\Downloads\burp-suite\burp.bat" & Chr(34), 0
+			WshShell.Run chr(34) & "C:\Users\professor-madmaxxx\Downloads\burp-suite\burp.bat" & Chr(34), 0
 
 			Set WshShell = Nothing
 
@@ -73,7 +73,7 @@
 
 		1. With Sudo Permissions, Create a file with command "gedit /bin/burp"
 
-		2. Paste command in text editor "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/cybercommunity03/Downloads/burp-suite/loader.jar -noverify -jar /home/cybercommunity03/Downloads/burp-suite/burpsuite_pro_v2021.2.1.jar &"
+		2. Paste command in text editor "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/professor-madmaxxx/Downloads/burp-suite/loader.jar -noverify -jar /home/professor-madmaxxx/Downloads/burp-suite/burpsuite_pro_v2021.2.1.jar &"
 
 		3. Change Permissions for files with command "chmod +x /bin/burp"
 
