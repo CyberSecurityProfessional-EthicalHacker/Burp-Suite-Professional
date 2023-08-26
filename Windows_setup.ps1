@@ -1,7 +1,7 @@
 # Name is Important
 echo "
               **Professor MadMaxxx**
-              **Certified Ethical Hacker
+              **Certified Ethical Hacker**
               ##Certified Ethical Hacker##
               ##Do not use it for illegal purpose##
 "
