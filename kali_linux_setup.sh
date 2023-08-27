@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "
-               **Professor-MadMaxxx**
-              **Certified Ethical Hacker**
-	    ***Certified Ethical Hacker**
+        
+	    **Certified Ethical Hacker**
+           ***CyberSecurityProfessional-EthicalHacker***
 	   ****Do not use it for illegal activity****
 "
 
