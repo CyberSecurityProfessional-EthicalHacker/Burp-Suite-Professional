@@ -1,9 +1,9 @@
 # Name is Important
 echo "
-              **Professor MadMaxxx**
               **Certified Ethical Hacker**
-              ##Certified Ethical Hacker##
-              ##Do not use it for illegal purpose##
+           ***CyberSecurityProfessional-EthicalHacker***
+	       ****Do not use it for illegal activity****
+             
 "
 
 # Set Wget Progress to Silent, Becuase it slows down Downloading by +50x
